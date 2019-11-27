@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;ex5/src/(default package)&apos;&#x0A;- Original project: &apos;myWeb435&apos;&#x0A;- Destination element: &apos;ex5/src/(default package)&apos;&#x0A;- Original elements:&#x0A;     cat.html&#x0A;     dog.txt&#x0A;     addnums.html" description="Copy files" destination="=ex5/src&lt;" element1="cat.html" element2="dog.txt" element3="addnums.html" files="3" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1556587028248" units="0" version="1.0"/>
+</session>

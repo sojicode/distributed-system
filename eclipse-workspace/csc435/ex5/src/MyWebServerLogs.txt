@@ -1,0 +1,174 @@
+
+Rong Zhuang's Web Server is working...
+> New request received: GET / HTTP/1.1
+> This is a [DIRECTORY EXPLORE] request..
+>> Explore the content under folder: src
+>>> Directory: sub_a
+>>> File: .DS_Store
+>>> File: dog.txt
+>>> File: MyWebServer.class
+>>> File: addnums.html
+>>> File: ForWork.class
+>>> File: HttpWorker.class
+>>> File: cat.html
+>>> File: MyWebServer.java
+>> No such resource:/images/folder.png
+>> No such resource:/images/folder.png
+>> No such resource:/images/file.png
+>> No such resource:/images/folder.png
+>> No such resource:/images/file.png
+>> No such resource:/images/text.png
+>> No such resource:/images/folder.png
+>> No such resource:/images/file.png
+>> No such resource:/images/text.png
+>> No such resource:/images/java.png
+>> No such resource:/images/folder.png
+>> No such resource:/images/file.png
+>> No such resource:/images/text.png
+>> No such resource:/images/java.png
+>> No such resource:/images/class.png
+>> No such resource:/images/folder.png
+>> No such resource:/images/file.png
+>> No such resource:/images/text.png
+>> No such resource:/images/java.png
+>> No such resource:/images/class.png
+>> No such resource:/images/html.png
+>> No such resource:/favicon.ico
+
+Rong Zhuang's Web Server is working...
+> New request received: GET /ForWork.class HTTP/1.1
+> This is a [SINGLE FILE] request..
+>> Seek the content of file: ForWork.class
+
+Rong Zhuang's Web Server is working...
+> New request received: GET /cat.html HTTP/1.1
+> This is a [SINGLE FILE] request..
+>> Seek the content of file: cat.html
+>> No such resource:/favicon.ico
+>> No such resource:/favicon.ico
+
+Rong Zhuang's Web Server is working...
+> New request received: GET / HTTP/1.1
+> This is a [DIRECTORY EXPLORE] request..
+>> Explore the content under folder: src
+>>> Directory: sub_a
+>>> File: .DS_Store
+>>> File: dog.txt
+>>> File: MyWebServer.class
+>>> File: addnums.html
+>>> File: ForWork.class
+>>> File: HttpWorker.class
+>>> File: cat.html
+>>> File: MyWebServerLogs.txt
+>>> File: MyWebServer.java
+>> No such resource:/images/folder.png
+>> No such resource:/images/file.png
+>> No such resource:/images/file.png
+>> No such resource:/images/text.png
+>> No such resource:/images/file.png
+>> No such resource:/images/text.png
+>> No such resource:/images/html.png
+>> No such resource:/images/file.png
+>> No such resource:/images/text.png
+>> No such resource:/images/html.png
+>> No such resource:/images/java.png
+>> No such resource:/images/file.png
+>> No such resource:/images/text.png
+>> No such resource:/images/html.png
+>> No such resource:/images/java.png
+>> No such resource:/images/class.png
+>> No such resource:/favicon.ico
+
+Rong Zhuang's Web Server is working...
+> New request received: GET /dog.txt HTTP/1.1
+> This is a [SINGLE FILE] request..
+>> Seek the content of file: dog.txt
+>> No such resource:/favicon.ico
+>> No such resource:/images/folder.png
+>> No such resource:/images/folder.png
+>> No such resource:/images/file.png
+>> No such resource:/images/class.png
+>> No such resource:/images/folder.png
+>> No such resource:/images/file.png
+>> No such resource:/images/text.png
+>> No such resource:/images/text.png
+>> No such resource:/images/html.png
+>> No such resource:/images/text.png
+>> No such resource:/images/html.png
+>> No such resource:/images/java.png
+>> No such resource:/favicon.ico
+
+Rong Zhuang's Web Server is working...
+> New request received: GET /cat.html HTTP/1.1
+> This is a [SINGLE FILE] request..
+>> Seek the content of file: cat.html
+>> No such resource:/favicon.ico
+>> No such resource:/favicon.ico
+
+Rong Zhuang's Web Server is working...
+> New request received: GET /addnums.html HTTP/1.1
+> This is a [SINGLE FILE] request..
+>> Seek the content of file: addnums.html
+>> No such resource:/favicon.ico
+
+Rong Zhuang's Web Server is working...
+> New request received: GET /cgi/addnums.fake-cgi?person=YourName&num1=a&num2=5 HTTP/1.1
+> This is a [CGI] request..
+>> Invalid parameter: a or 5, both must be integer!
+>> No such resource:/favicon.ico
+>> No such resource:/favicon.ico
+>> No such resource:/favicon.ico
+
+Rong Zhuang's Web Server is working...
+> New request received: GET / HTTP/1.1
+> This is a [DIRECTORY EXPLORE] request..
+>> Explore the content under folder: src
+>>> Directory: sub_a
+>>> File: .DS_Store
+>>> File: dog.txt
+>>> File: MyWebServer.class
+>>> File: addnums.html
+>>> File: ForWork.class
+>>> File: HttpWorker.class
+>>> File: cat.html
+>>> File: MyWebServerLogs.txt
+>>> File: MyWebServer.java
+>> No such resource:/images/folder.png
+>> No such resource:/images/text.png
+>> No such resource:/images/text.png
+>> No such resource:/images/file.png
+>> No such resource:/images/html.png
+>> No such resource:/images/class.png
+>> No such resource:/images/html.png
+>> No such resource:/images/class.png
+>> No such resource:/images/html.png
+>> No such resource:/images/class.png
+>> No such resource:/images/java.png
+>> No such resource:/favicon.ico
+
+Rong Zhuang's Web Server is working...
+> New request received: GET /MyWebServerLogs.txt HTTP/1.1
+> This is a [SINGLE FILE] request..
+>> Seek the content of file: MyWebServerLogs.txt
+>> No such resource:/favicon.ico
+>> No such resource:/favicon.ico
+
+Rong Zhuang's Web Server is working...
+> New request received: GET /.DS_Store HTTP/1.1
+> This is a [SINGLE FILE] request..
+>> Seek the content of file: .DS_Store
+
+Rong Zhuang's Web Server is working...
+> New request received: GET /dog.txt HTTP/1.1
+> This is a [SINGLE FILE] request..
+>> Seek the content of file: dog.txt
+>> No such resource:/favicon.ico
+>> No such resource:/images/folder.png
+>> No such resource:/images/file.png
+>> No such resource:/images/file.png
+>> No such resource:/images/text.png
+>> No such resource:/images/class.png
+>> No such resource:/images/html.png
+>> No such resource:/images/html.png
+>> No such resource:/images/java.png
+>> No such resource:/favicon.ico
